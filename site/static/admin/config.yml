@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
   repo: github.com/NGThakkar/Startup01
-  branch: main
+  branch: master
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
